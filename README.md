@@ -11,7 +11,8 @@ Feel free to explore the labs and see the work I’ve done to strengthen detecti
 - **[Azure VM Vulnerability Management & Tenable Lab](#)**  
   Complete authenticated/unauthenticated scans, DISA STIG templates, policy creation, vulnerability recasting, and remediation workflows.
 
-- **[Vulnerability Management Policy & Program Implementation](#)*https://https://github.com/JoelBodden1/Vulnerability-Management/projects?query=is%3Aopen  
+- **[Vulnerability Management Policy & Program Implementation](https://github.com/JoelBodden1/Vulnerability-Management/projects?query=is%3Aopen)**
+ 
   Full VM policy, executive approval workflow, remediation team briefs, and post-scan assessments.
 
 - **[Programmatic Vulnerability Remediation (PowerShell & Bash)](#)**  
