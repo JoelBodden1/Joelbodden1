@@ -1,16 +1,64 @@
-## Hi there 👋
+# <a href="https://www.linkedin.com/in/joel-bodden-jmb/">Joel Bodden</a>'s IT & Cybersecurity Project Portfolio 🔐
 
-<!--
-**JoelBodden1/Joelbodden1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about cybersecurity, cloud computing, and hands-on defensive security work. My projects reflect real-world threat hunting, vulnerability management, cloud security, and SOC workflows—built through certifications, military experience, and ongoing professional development.
 
-Here are some ideas to get you started:
+Feel free to explore the labs and see the work I’ve done to strengthen detection, response, and security operations!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## ⚠️ Vulnerability Management Projects
+
+- **[Azure VM Vulnerability Management & Tenable Lab](#)**  
+  Complete authenticated/unauthenticated scans, DISA STIG templates, policy creation, vulnerability recasting, and remediation workflows.
+
+- **[Vulnerability Management Policy & Program Implementation](#)**  
+  Full VM policy, executive approval workflow, remediation team briefs, and post-scan assessments.
+
+- **[Programmatic Vulnerability Remediation (PowerShell & Bash)](#)**  
+  Script automation for patching, secure configuration enforcement, and large-scale remediation.
+
+---
+
+## 🚨 Threat Hunting & Security Operations
+
+- **[Full Threat Hunt Report – Flags 1–20 (Microsoft Defender / KQL)](#)**  
+  Investigation of malicious activity using KQL queries, DeviceProcessEvents, DeviceNetworkEvents, lateral movement detection, malware staging, and RDP exploitation.
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](#)**  
+  KQL analysis to detect anonymization tools, suspicious browsing behavior, and user anomalies.
+
+- **[Wazuh SOC Automation & Threat Detection Lab](#)**  
+  Threat detection via Wazuh manager, KQL pattern matching, process forensics, and lateral movement alerts.
+
+---
+
+## ☁️ Cloud Security Projects
+
+- **[Azure VM Deployment & Secure Configuration](#)**  
+  Built Windows/Linux VMs, configured NSGs, deployed agents, performed authenticated scanning, and applied cloud-native hardening.
+
+- **[Cloud Vulnerability Scanning Architecture](#)**  
+  Configured Tenable Cloud Scanner vs Local Scan Engine, credentialed scanning, and full subnet discovery scans.
+
+---
+
+## 🧪 Additional Cyber Projects
+
+- **[MITRE ATT&CK Mapping & Detection Use Cases](#)**  
+- **[Windows/Linux Log Analysis & Forensics Exercises](#)**  
+- **[RMF Documentation Practice (SAR, RAR, POA&M)](#)**  
+
+---
+
+## 🤳 Connect With Me
+
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]  
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/YOURHANDLE  
+[youtube]: https://www.youtube.com/YOURCHANNEL  
+[instagram]: https://www.instagram.com/YOU
+
 -->
